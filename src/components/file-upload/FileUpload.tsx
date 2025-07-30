@@ -1,3 +1,4 @@
+import React from 'react';
 import { FileUploadConfig } from './configSchema';
 import { ButtonUpload } from './variants/ButtonUpload';
 import { DropzoneUpload } from './variants/DropzoneUpload';

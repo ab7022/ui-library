@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import { FileUpload } from '../src/components/file-upload/FileUpload';
-import { FileUploadConfig } from '../src/components/file-upload/configSchema';
+// import  {FileUpload}  from '@abdul__bayees/ui-library';
+import { FileUpload } from '@abdul__bayees/ui-library';
+import { FileUploadConfig } from "@abdul__bayees/ui-library";
 
 // Aurora-inspired color palette for glassy/gradient background
 const COLORS = {
