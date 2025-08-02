@@ -1,25 +1,14 @@
 
-# 📁 file-upload-ui-lib
+# 📁 Ui Library
 
 ## 🚀 Installation
 
 Install the package via npm:
 
 ```bash
-npm install file-upload-ui-lib
+npm i @abdul__bayees/ui-library
 ```
 
-Or with yarn:
-
-```bash
-yarn add file-upload-ui-lib
-```
-
-Or with pnpm:
-
-```bash
-pnpm add file-upload-ui-lib
-```
 
 A simple, customizable, config-driven file upload component built with React, TailwindCSS, and Vite.
 
@@ -32,12 +21,9 @@ A simple, customizable, config-driven file upload component built with React, Ta
 
 ## 🚀 Usage
 
-```bash
-npm install file-upload-ui-lib
-```
 
 ```tsx
-import { FileUpload } from 'file-upload-ui-lib';
+import { FileUpload } from '@abdul__bayees/ui-library';
 
 <FileUpload config={{
   variant: 'button',
@@ -116,4 +102,4 @@ Then open [http://localhost:5173](http://localhost:5173) to see the demo page wi
   }
 }
 ```
-# ui-library
+## 📚 Documentation
